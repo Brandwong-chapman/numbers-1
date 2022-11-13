@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Brandon Wong
+2. Student ID: 2422224
+3. Email: Brandwong@chapman.edu
+4. Class: 298-1
 5. Assignment: numbers 
 
 ## Application Purpose
@@ -23,3 +23,4 @@ A bash script named “numbers.sh” that will
 To run the script with input from the included numbers-input file:
 ./numbers.sh < numbers-input
 
+# numbers-1
