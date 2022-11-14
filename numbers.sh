@@ -6,7 +6,7 @@ read -r NUMBER
 i=1;
 while [ $i -le "$NUMBER" ];
 do
-    if (( $i%2==0 ))
+    if (( i%2==0 ))
     then
         echo $i EVEN
     else
